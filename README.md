@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b5394&height=120&section=header"/>
 
+
 ## Olá, Sou Rafael Castro e este é meu portfólio de Análise de Dados
 
 - 📊 Trabalo: Atualmente atuo como Estagiário em Análise de Dados
@@ -7,8 +8,22 @@
 - 📖 Lendo: SQL Para Análise de Dados - Cathy Tanimura
 - 👦🏻 Promone: Ele/Dele
 - 📝 Vida pessoal: Sou 👪casado com a Jornalista Camila Luz, pai do Benício, amante da gastronomia🍖 (crítico kk), 🏃 praticante ativo de caminhada.
+### Ferramentas:
 
-Proejetos de Portifólio desenvolvidos:
+![PYTHON](https://img.shields.io/badge/-python-F7FE2E?logo=python&logoColor=GRAY&style=plastic)
+![R](https://img.shields.io/badge/-R-0000FF?logo=r&logoColor=BLUE&style=plastic)
+![MYSQL](https://img.shields.io/badge/-MYSQL-3B0B0B?logo=mysql&logoColor=white&style=plastic)
+![SQLSERVER](https://img.shields.io/badge/-Microsoft%20SQL%20SERVER-424242?logo=microsoftsqlserver&logoColor=F2C911&style=plastic)
+![POSTGRE](https://img.shields.io/badge/-POSTGRESQL-A9F5D0?logo=postgresql&logoColor=blue&style=plastic)
+![POWERBI](https://img.shields.io/badge/-Microsoft%20Power%20BI-F8FBEF?logo=powerbi&logoColor=F2C911&style=plastic)
+![TABLEAU](https://img.shields.io/badge/-TABLEAU-A9D0F5?logo=tableau&logoColor=blue&style=plastic)
+![FIGMA](https://img.shields.io/badge/-FIGMA-DF7401?logo=figma&logoColor=white&style=plastic)
+![CANVA](https://img.shields.io/badge/-CANVA-A9D0F5?logo=canva&logoColor=white&style=plastic)
+![AMAZON](https://img.shields.io/badge/-AMAZON-424242?logo=amazondocumentdb&logoColor=F2C911&style=plastic)
+![AZURE](https://img.shields.io/badge/-AZURE%20DEVOPS-424242?logo=azuredevops&logoColor=F2C911&style=plastic)
+
+
+Projetos de Portifólio desenvolvidos:
 
 ## Projetos Iniciais
 
@@ -57,8 +72,6 @@ Lidere um projeto de Data Science completo, desde a coleta e limpeza de dados at
 
  
  
-### Ferramentas:
-
 
 
 
