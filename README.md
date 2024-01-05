@@ -8,24 +8,22 @@
 - 📖 Lendo: SQL Para Análise de Dados - Cathy Tanimura
 - 👦🏻 Promone: Ele/Dele
 - 📝 Vida pessoal: Sou 👪casado com a Jornalista Camila Luz, pai do Benício, amante da gastronomia🍖 (crítico kk), 🏃 praticante ativo de caminhada.
-### Ferramentas:
+## Ferramentas:
 
-![PYTHON](https://img.shields.io/badge/-python-F7FE2E?logo=python&logoColor=GRAY&style=plastic)
-![R](https://img.shields.io/badge/-R-0000FF?logo=r&logoColor=BLUE&style=plastic)
-![MYSQL](https://img.shields.io/badge/-MYSQL-3B0B0B?logo=mysql&logoColor=white&style=plastic)
-![SQLSERVER](https://img.shields.io/badge/-Microsoft%20SQL%20SERVER-424242?logo=microsoftsqlserver&logoColor=F2C911&style=plastic)
-![POSTGRE](https://img.shields.io/badge/-POSTGRESQL-A9F5D0?logo=postgresql&logoColor=blue&style=plastic)
-![POWERBI](https://img.shields.io/badge/-Microsoft%20Power%20BI-F8FBEF?logo=powerbi&logoColor=F2C911&style=plastic)
-![TABLEAU](https://img.shields.io/badge/-TABLEAU-A9D0F5?logo=tableau&logoColor=blue&style=plastic)
-![FIGMA](https://img.shields.io/badge/-FIGMA-DF7401?logo=figma&logoColor=white&style=plastic)
-![CANVA](https://img.shields.io/badge/-CANVA-A9D0F5?logo=canva&logoColor=white&style=plastic)
-![AMAZON](https://img.shields.io/badge/-AMAZON-424242?logo=amazondocumentdb&logoColor=F2C911&style=plastic)
-![AZURE](https://img.shields.io/badge/-AZURE%20DEVOPS-424242?logo=azuredevops&logoColor=F2C911&style=plastic)
+| Logo | Descrição | Logo | Descrição
+| --- | --- | --- | --- |
+| ![SQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-FF0000?logo=microsoftsqlserver) | Banco de Dados
+|![Python](https://img.shields.io/badge/-Python-FFFFF0?logo=python) | ETL
+|![Power BI](https://img.shields.io/badge/-Power%20BI-0A2229?logo=powerbi) |Visualização
+|![Power Automate](https://img.shields.io/badge/-Power%20Automate-0040FF?logo=powerautomate) | Automação
+|![Figma](https://img.shields.io/badge/-Figma-FFBF00?logo=figma) | Layout | ![Figma](https://img.shields.io/badge/-Figma-FFBF00?logo=figma) | Layout
 
 
-Projetos de Portifólio desenvolvidos:
 
-## Projetos Iniciais
+
+## Projetos de Portifólio desenvolvidos:
+<details>
+<summary>Projetos Iniciais</summary>
 
 - Análise Exploratória de Dados (Python - Pandas):
 Explore um conjunto de dados público, realizando limpeza, visualizações básicas e análise descritiva usando Pandas para entender tendências simples e fornecer insights iniciais.
@@ -38,7 +36,10 @@ Crie um banco de dados simples usando MySQL ou PostgreSQL, e pratique consultas 
 - Análise de Dados com Tableau (Básico):
 Desenvolva visualizações simples e crie um dashboard básico usando o Tableau para apresentar insights de um conjunto de dados fictício ou público.
 
-## Projetos Intermediário
+</details>
+
+<details>
+<summary>Projetos Intermediário</summary>
 
 - Projeto de Previsão de Vendas (Python - Machine Learning):
 Construa um modelo de previsão de vendas mais avançado usando técnicas de regressão, como regressão logística ou árvores de decisão, com validação cruzada e ajuste de hiperparâmetros.
@@ -51,7 +52,11 @@ Desenvolva um modelo de segmentação de clientes utilizando algoritmos de clust
 - Projeto de Migração de Dados (Big Data - Hadoop/Spark):
 Participe de um projeto de migração de dados para um ambiente de Big Data, utilizando Hadoop ou Spark para lidar com grandes volumes de dados e otimizar a estrutura de armazenamento.
 
-## Projetos Avançados
+</details>
+
+<details>
+<summary>Projetos Avançados</summary>
+
 - Análise Preditiva Avançada (Python/R - Deep Learning):
 Desenvolva modelos de deep learning para previsão de séries temporais, como previsão de demanda usando redes neurais recorrentes (RNNs) em Python ou R.
 - Projeto de Data Warehousing (SQL - Arquitetura de Dados):
@@ -62,18 +67,15 @@ Desenvolva e implemente um sistema de governança de dados, utilizando ferrament
 Desenvolva uma estratégia de Business Intelligence abrangente para uma empresa, alinhando as necessidades de negócios com a análise de dados para tomada de decisões.
 - Projeto de Data Science End-to-End (Machine Learning - Deploy):
 Lidere um projeto de Data Science completo, desde a coleta e limpeza de dados até o desenvolvimento de modelos avançados, seu deploy e monitoramento para uso prático em um contexto empresarial.
-  
+
+</details>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelsantoscastro&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Castro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantoscastro&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelsantoscastro&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- 
- 
-
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
