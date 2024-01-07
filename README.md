@@ -10,13 +10,51 @@
 - 📝 Vida pessoal: Sou 👪casado com a Jornalista Camila Luz, pai do Benício, amante da gastronomia🍖 (crítico kk), 🏃 praticante ativo de caminhada.
 ## Ferramentas:
 
-| Logo | Descrição | Logo | Descrição
-| --- | --- | --- | --- |
-| ![SQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-FF0000?logo=microsoftsqlserver) | Banco de Dados
-|![Python](https://img.shields.io/badge/-Python-FFFFF0?logo=python) | ETL
-|![Power BI](https://img.shields.io/badge/-Power%20BI-0A2229?logo=powerbi) |Visualização
-|![Power Automate](https://img.shields.io/badge/-Power%20Automate-0040FF?logo=powerautomate) | Automação
-|![Figma](https://img.shields.io/badge/-Figma-FFBF00?logo=figma) | Layout | ![Figma](https://img.shields.io/badge/-Figma-FFBF00?logo=figma) | Layout
+Controle de Versão e Repositório: 
+![GUIT](https://img.shields.io/badge/-Git-FF0000?logo=git&logoColor=white)   
+![GUITHUB](https://img.shields.io/badge/-GitHub-FF0000?logo=github&logoColor=white)
+
+Linguagens de Programação: 
+![Linux](https://img.shields.io/badge/-Linux-FF0000?logo=linux&logoColor=white)   
+![R](https://img.shields.io/badge/-R-FF0000?logo=r&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-FF0000?logo=python&logoColor=white)
+
+Bancos de Dados Relacionais:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FF0000?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-FF0000?logo=mysql&logoColor=white) 
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-FF0000?logo=microsoftsqlserver&logoColor=white) 
+![Oracle Database](https://img.shields.io/badge/-Oracle%20Database-FF0000?logo=oracle&logoColor=white)
+
+Bancos de Dados NoSQL: 
+![MongoDB](https://img.shields.io/badge/-MongoDB-FF0000?logo=mongodb&logoColor=white) 
+![Datomic](https://img.shields.io/badge/-Datomic-FF0000?)
+
+Ferramentas de Visualização de Dados: 
+![Power BI](https://img.shields.io/badge/-Power%20BI-FF0000?logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-FF0000?logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-FF0000?logo=looker&logoColor=white)
+![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-FF0000?logo=qlik&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-FF0000?logo=googlesheets&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-FF0000?logo=microsoftexcel&logoColor=white)
+
+
+Ferramentas para ETL e Pipelines: 
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-FF0000?logo=apacheairflow&logoColor=white)
+![Apache Beam](https://img.shields.io/badge/-Apache%20Beam-FF0000?)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF0000?logo=amazonec2&logoColor=white)
+
+
+Ferramentas de Design: 
+Figma | Canva
+
+Data Warehouses: 
+Amazon Redshift | Snowflake | Google BigQuery
+
+Processamento Distribuído de Dados: 
+Apache Spark | Databricks  | Apache Hadoop
+
+Fundamentos de Cloud:
+Amazon EC2 | Google Cloud |  Docker | Azure
 
 
 
